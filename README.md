@@ -1,22 +1,14 @@
-## Hello, I'm MriDx
-### welcome to my github profile
+### Hi there!
 
-### I'm a Native Android Developer with 3+ years of working experience in Java (Android Studio) currently engaged in Sumato GlobalTech Pvt. Ltd, Guwahati
+### I'm a Native Android Developer from Guwahati, India.
 
-## My Skills
-### Android Studio (Java, Kotlin, Flutter)
-### React-Native (JavaScript)
-### AdonisJS(Node JS Framework)
+- I likes to build bug free apps with some great UI/UX and performance.
+- Currently working at Sumato Globaltech pvt. ltd, Guwahati.
+- I work with ```Android Studio``` ```Java``` ```Kotlin``` ```Git```
+- Currently learning about: **Flutter**, **Kotlin Coroutine**, **Code Optimization**
+- Have some mediocre knowledge on ```React-Native``` ```Flutter``` ```AdonisJs``` ```PHP``` 
+- Reach me [@mridulbaishya2](https://twitter.com/mridulbaishya2)
+- Please visit codepen to view my works on flutter [@mridx](https://codepen.io/mridx)
 
-## Projects
-### FreeMusic (open source)
-#### a music streaming and downloader app 
-### FCMHelper (open source)
-#### Firebase Cloud Message sender application
-### DartMedia(Native) and DartMedia v2 (React-Native) (Both private)
-#### news article publishing app with firebase authentication and custom built earn-by-share-and-login system build on Php (PDO)
-### FreeGaana(open source)
-#### again a music downloader app with in-build ffmpeg library. 
-#### and has some other projects too
 
-# Thanks for visiting
+the styling copied from [@mithicher](https://github.com/mithicher)
