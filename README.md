@@ -11,4 +11,4 @@
 - Please visit codepen to view my works on flutter [@mridx](https://codepen.io/mridx)
 
 
-the styling copied from [@mithicher](https://github.com/mithicher)
+the styling is copied from [@mithicher](https://github.com/mithicher)
